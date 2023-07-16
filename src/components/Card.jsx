@@ -1,5 +1,5 @@
 import React from "react";
-import { RiArrowUpSLine, RiArrowDownSLine } from "react-icons/ri";
+import { RiArrowDownSLine, RiArrowUpSLine } from "react-icons/ri";
 
 const Card = (props) => {
   const [arrow, setArrow] = React.useState("up");
